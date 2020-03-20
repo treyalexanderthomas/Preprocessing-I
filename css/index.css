@@ -129,6 +129,7 @@ body {
 /*My code starts here*/
 /*Mixins*/
 /*Variables*/
+/*Media Query*/
 /*Styling*/
 /*html {
 	border:2px solid aqua;
@@ -169,7 +170,6 @@ ul {
   max-width: 100%;
   display: flex;
   flex-wrap: wrap;
-  margin-top: 5%;
 }
 .personal div {
   width: 47%;
